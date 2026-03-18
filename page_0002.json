@@ -1,0 +1,11 @@
+{
+  "source_file": "page_0002.txt",
+  "experiments": [
+    {
+      "reasoning": "The passage describes a systematic observation of luminous spots on a piece of meat, including descriptions of apparatus (e.g., using a flexible paper to examine luminosity), measurements of size and shape, and a deliberate procedure to isolate and study these spots. The author also compares the luminous phenomenon to glowworms, suggesting a controlled observation of light emission.",
+      "description": "The author examines a piece of meat to identify and study distinct luminous spots. The experiment involves visually inspecting the meat in the dark, measuring the size and shape of these spots, and using a flexible paper to project and read letters from the luminous regions. The author also notes the color of the light (greenish-blue) and compares it to glowworms.",
+      "quote": "By drawing to and fro the Medulla spinalis, we found, that a part of that also did not shine ill: And I perceived one place in a Tendon to afford some light; and lastly three or four spots in the fleshy parts at a good distance from the bones were plainly discovered by their own light, though that were fainter than in the parts above mentioned.",
+      "outcome": "The author notes that the luminous spots were observed in various parts of the meat, including bones, tendons, and fleshy areas, and that the luminosity could be projected onto paper to read letters. The color of the light was described as greenish-blue, similar to glowworms."
+    }
+  ]
+}

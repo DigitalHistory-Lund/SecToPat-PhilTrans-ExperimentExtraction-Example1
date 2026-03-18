@@ -1,0 +1,11 @@
+{
+  "source_file": "page_0008.txt",
+  "experiments": [
+    {
+      "reasoning": "The passage describes a deliberate procedure involving systematic observations of a phenomenon (the luminous appearance in a pullet) under controlled conditions (darkened chamber, repeated observations over multiple nights). The author explicitly mentions sending the pullet to a larder and observing its behavior over a specific timeframe (less than 48 hours), which aligns with the definition of an experiment.",
+      "description": "The experiment involved observing a pullet (young hen) that exhibited a luminous appearance in the larder. The author took the pullet into a darkened chamber to further investigate the luminous spots, noting their locations (near the rump, particularly at the tip of the rump). The experiment was conducted over multiple nights to determine whether the luminous phenomenon was consistent or transient.",
+      "quote": "having several nights sent purpoely into the Larder, to observe, whether any Veal, since brought thither, or any other meat, did afford any light, a negative answer was alwaies brought me back; save at one time, which happened to be within less than 48 hours of that, at which the Luminousness of the Veal had been first taken notice of; for at this time there was in the same Larder a conspicuous light seen in a Pullet, that hung up there, which having caus’d to be brought up into a darkned place in my chamber in the night time, I perceived four or five luminous places, which were not indeed near so large as those of the Veal, but were little less vivid than they. All of these I took notice to be either upon or near the Rump, and that, which appear’d most like a Spark of Fire, shone at the very tip of that part.",
+      "outcome": "The luminous spots in the pullet were observed in a darkened chamber, and the author noted their locations and vividness. The outcome was not explicitly stated as a null result, but the author explicitly states that the pullet was not foul or ill-sent, and the next day it was found to be good meat. This suggests the luminous phenomenon was transient and not harmful."
+    }
+  ]
+}

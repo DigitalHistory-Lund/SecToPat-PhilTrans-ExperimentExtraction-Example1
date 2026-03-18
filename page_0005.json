@@ -1,0 +1,11 @@
+{
+  "source_file": "page_0005.txt",
+  "experiments": [
+    {
+      "reasoning": "This passage describes a deliberate procedure involving a pump, a receiver, a mercurial gage, and systematic observations of light diminution over time. The setup, repeated trials, and observations of the apparatus' behavior (e.g., light changes, gage readings) clearly indicate an experimental setup.",
+      "description": "The experiment involved using a vacuum pump to exhaust air from a receiver containing veal (presumably a glowing or luminous substance). The experimenter observed the gradual decrease in light intensity as air was progressively removed from the receiver. A mercurial gage was used to confirm the pump’s operation, and the process was repeated to verify consistency. The goal was to determine whether the light would eventually disappear completely or diminish significantly over time.",
+      "quote": "causing the lights to be brought in, and a Mercurial Gage to be put into the Receiver; when we were sure that this glass was well cemented on to the Engine, the Candles being removed, the pump was set a work again; and then opening my eyes, which I had kept clos'd against the light of the Candles, I could perceive, upon the gradual withdrawing of the Air, a discernible and gradual lessening of the light; which yet was never brought quite to disappear (as I long since told you the light of Rotten Wood and Gloworms had done), or to be so near vanishing as one would have expected; though upon the bringing in of the Candles again it appeared by the Gage, that the Pump had been diligently applied.",
+      "outcome": "The light diminished gradually but did not completely vanish, suggesting that the luminous matter in the veal was more tenacious or vigorous than in other substances like rotting wood or glowworms. The experimenter noted that the decrement was considerable but slow, and repeated trials confirmed this pattern."
+    }
+  ]
+}

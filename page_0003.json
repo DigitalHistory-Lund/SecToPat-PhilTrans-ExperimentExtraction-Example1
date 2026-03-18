@@ -1,0 +1,17 @@
+{
+  "source_file": "page_0003.txt",
+  "experiments": [
+    {
+      "reasoning": "The passage describes a deliberate procedure involving the use of a sealed thermometer (thermoscope) to measure heat transfer from a luminous object (likely a candle or light source). The experiment involves applying the thermoscope to the shining parts of the object and observing whether the spirit of wine inside warms noticeably. The description includes specific apparatus (sealed glass, spirit of wine) and a systematic observation of temperature change, which fits the criteria of an experiment.",
+      "description": "The experiment involved taking a luminous part of a neck of veal (likely a bone with a reflective surface) and using a sealed thermoscope with tinted spirit of wine to test whether the light emitted by the bone could transfer heat to the spirit. The experimenter marked the shining parts to compare them later and observed the thermoscope’s response over time.",
+      "quote": "'I applied a seal’d Weather glass, furnished with tincted spirit of wine, for a pretty while, and could not satisfy my self, that the shining parts did at all sensibly warm the liquor:'",
+      "outcome": "Null (no explicit mention of a measurable outcome, but the experimenter did not find significant warming)"
+    },
+    {
+      "reasoning": "This passage describes an observation of a food item (neck of veal) to determine whether it smells of putrefaction despite its appearance. The experiment involves a systematic observation of the meat’s condition, smell, and context (e.g., proximity to the kitchen, freshness). While not explicitly a controlled test, the description implies a deliberate comparison of smell and appearance to infer the absence of putrefaction.",
+      "description": "The experiment involved observing the smell of a neck of veal, despite its vividly shining parts, to determine if it had decomposed or rotted. The experimenter and others smelled the meat to check for any signs of stink, given its fresh appearance.",
+      "quote": "'Notwithstanding the great number of lucid parts in this Neck of Veal, yet neither I, nor any of those that were about me, could perceive by the smell the least degree of stink, whence to infer any Putrefaction; the meat being judged very fresh and well condition’d and fit to be dressed.'",
+      "outcome": "Null (no explicit measurement or quantitative result, but the smell was judged to be absent of putrefaction)"
+    }
+  ]
+}

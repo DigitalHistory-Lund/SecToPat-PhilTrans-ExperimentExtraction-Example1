@@ -1,0 +1,23 @@
+{
+  "source_file": "page_0007.txt",
+  "experiments": [
+    {
+      "reasoning": "The passage describes a systematic observation of a luminous phenomenon in a preserved animal (likely a veal or calf) over multiple days. The author notes the progression of light visibility, apparatus (e.g., curtains), and environmental conditions (e.g., daylight, darkness), which aligns with the criteria for an experiment: a deliberate procedure, repeated observations, and a focus on a specific phenomenon over time.",
+      "description": "The experiment involved observing the luminous properties of a preserved animal (possibly a veal or calf) over several days. The author recorded how the light emitted by the animal changed under different conditions—such as during the day, at night, and after the animal had been exposed to sunlight. The observations were conducted in a controlled setting (e.g., within curtains) to isolate the phenomenon.",
+      "quote": "‘the following night I invited you to be a spectator of it, though before that time the light had begun to decay and the offensive smell to grow somewhat strong: which seems to argue, that the disposition, upon whose account our Veal was luminous, may very well consist both with its being and not being in a state of putrefaction, and consequently is not likely to be derived meerly from the one or the other.’",
+      "outcome": "The light appeared to fade over time, with variations depending on environmental factors (e.g., daylight exposure, darkness). The author did not explicitly state a null outcome but noted that the luminous property persisted in a preserved state, suggesting it was not solely due to putrefaction."
+    },
+    {
+      "reasoning": "The author mentions ‘some notes’ where they ‘endeavoured to make it probable’ that light could arise from mechanical processes (e.g., impulses, diffusion, or other corporeal agents). While not explicitly described as an experiment, this passage reflects a theoretical framework that could be tested or observed systematically in future experiments.",
+      "description": "This is not a direct experiment but a theoretical hypothesis about the nature of light production. The author suggests that light might depend on mechanical processes (e.g., impulses through a medium or diffusion of particles) rather than purely chemical or biological mechanisms. This was likely intended as a speculative framework for future investigation.",
+      "quote": "‘whether Light depend upon a particular kind of Impulse propagated through a transparent Medium; or upon a Diffusion of extremely little parts from the Luminous body; or upon the Action of some other corporeal agent; what ever the Effcient be, the Effect is produced in a Mechanical way.’",
+      "outcome": "Not explicitly stated in this passage, but the author’s earlier notes imply an ongoing inquiry into the mechanical origins of light."
+    },
+    {
+      "reasoning": "The author’s repeated observations of the light’s visibility over multiple days (e.g., ‘the fifth day... the sixth day... the seventh day’) and their systematic recording of changes (e.g., ‘glimmering light,’ ‘could not discern any light at all’) constitute a controlled observation sequence. This aligns with experimental methodology, even if not explicitly framed as such.",
+      "description": "The author conducted a longitudinal observation of the luminous animal over seven days, noting how its light faded or persisted under varying conditions (e.g., daylight, darkness). This was likely part of a broader effort to understand the stability and causes of the phenomenon.",
+      "quote": "‘The fifth day, in the morning looking upon it when I awaked, and before the curtains were opened, it seemed to shine better than it had done the day preceding. The same night also it was manifest enough, though not vivid, in the dark. When I awaked, the sixth day in the morning after the Sun was risen, I could within the Curtain perceive a glimmering light. But the seventh day, which was yesterday, I could not late at night discern any light at all.’",
+      "outcome": "The light diminished progressively, with no clear revival after the seventh day. The author did not state a null outcome but noted the decay over time."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "source_file": "page_0001.txt",
+  "experiments": [
+    {
+      "reasoning": "The passage describes a deliberate observation of a luminous phenomenon in a controlled setting (a darkened room) involving a specific piece of meat (a neck of veal). The author describes a procedure (placing the meat in a dark corner), systematic observations (seeing the meat shine), and a hypothesis-driven curiosity about the phenomenon, fitting the criteria of an experiment.",
+      "description": "The experiment involved observing the luminous properties of a neck of veal that had been hung in a dark room. The author describes seeing the meat emit a luminous glow resembling that of rotten wood or stinking fish, likely due to biochemical processes such as bacterial action or chemical decomposition.",
+      "quote": "‘I plainly saw, both with wonder and delight, that the joint of meat did in divers places shine like rotten Wood or stinking Fish’",
+      "outcome": "The phenomenon of luminous meat was observed, though the exact cause or mechanism was not explicitly detailed in the passage."
+    }
+  ]
+}

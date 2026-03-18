@@ -1,0 +1,11 @@
+{
+  "source_file": "page_0006.txt",
+  "experiments": [
+    {
+      "reasoning": "The passage describes a deliberate procedure involving the observation of luminous properties in a piece of meat (veal) after it was included in a phial. The description includes specific time references (between 4 and 5 AM, third and fourth days), apparatus (a phial), and systematic observations of the light emitted over time. This fits the criteria of an experiment.",
+      "description": "The experiment involved taking a piece of veal that had previously exhibited faint luminous spots (shining places) and placing it inside a clean phial. The experimenter observed the phial’s contents for luminosity over several days, noting the persistence and intensity of the light in darkness. The procedure was repeated to confirm the phenomenon.",
+      "quote": "I looked upon a clean phial, that I had laid upon the bed by me after a piece of our luminous Veal had been included in it, and found it to shine vividly at that time, which was between four and five of clock this morning, since when I have made no one observation or tryal.",
+      "outcome": "The luminous property of the veal persisted and continued to shine vividly in the dark over the course of three to four days."
+    }
+  ]
+}

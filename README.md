@@ -4,4 +4,4 @@ Example output from the [SecToPat extraction pipeline](https://github.com/Digita
 
 Source: Robert Boyle, "Some Observations about Shining Flesh" (1672).
 
-Open **[viewer.html](viewer.html)** to browse the results.
+Open **[index.html](index.html)** to browse the results.

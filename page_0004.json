@@ -2,34 +2,39 @@
   "source_file": "page_0004.txt",
   "experiments": [
     {
-      "reasoning": "This passage describes a deliberate procedure involving the manipulation of glowworm tissue (rubbing it on the hand) to investigate whether luminous moisture is produced. The use of specific terms like 'purposely cut off,' 'rub’d,' and 'purposely' indicates a controlled attempt to observe a specific outcome.",
-      "description": "The experimenter attempts to extract or observe any luminous moisture by rubbing a cut piece of glowworm flesh on their hand. The goal is to determine if the act of rubbing imparts any luminous substance to the hand.",
-      "quote": "To try, whether I could obtain any juice or moist substance from this, as I have several times done from the tails of Gloworms; I rub’d some of the softer and more lucid parts, (which I caused to be purposely cut off,) as dextrously as I could, upon my hand, but I did not at all perceive any luminous moisture was thereby imparted; though the flesh seemed by that operation to have lost some of its light.",
-      "outcome": "Null (no luminous moisture was perceived imparted to the hand)"
+      "reasoning": "The passage describes a deliberate procedure involving the manipulation of a luminous substance (likely a glowworm or similar organism) and the observation of its response to mechanical stress, chemical exposure, and environmental conditions. The use of apparatus like glass, phials, and a pneumatic engine, along with systematic observations of light persistence, qualifies this as an experiment.",
+      "description": "The experiment involved rubbing a piece of luminous flesh (possibly from a glowworm) against the skin to test whether any luminous moisture was imparted. The experimenter also compressed the flesh between two pieces of glass to observe how well its structure resisted external force. Additionally, the experimenter exposed the luminous flesh to high rectified spirit of wine and water to observe their effects on the light.",
+      "quote": "To try, whether I could obtain any juice or moist substance from this, as I have several times done from the tails of Gloworms; I rubbed’d some of the softer and more lucid parts, (which I caused to be purposely cut off,) as dextrously as I could, upon my hand, but I did not at all perceive any luminous moisture was thereby imparted; though the flesh seemed by that operation to have lost some of its light.",
+      "outcome": "No luminous moisture was imparted upon rubbing, but the flesh appeared to lose some of its light.",
+      "location": null
     },
     {
-      "reasoning": "This involves compressing a piece of luminous flesh between two pieces of glass to test how well the tissue resists external force. The description includes the use of glass and the application of force, which are classic experimental setups to observe resistance or structural integrity.",
-      "description": "The experimenter compresses a piece of luminous flesh between two pieces of glass to observe whether the light is extinguished under this mechanical stress. The intent is to study the resilience of the tissue to external pressure.",
+      "reasoning": "This involves compressing a piece of luminous flesh between two pieces of glass to observe its structural resilience and the effect on its luminosity.",
+      "description": "The experimenter compressed a piece of luminous flesh between two pieces of glass to test how well the tissue would resist external force and whether the light would be extinguished.",
       "quote": "I caused also a piece of shining flesh to be compressed betwixt two pieces of glass, to try, how well the contexture of it would resist that external force; but I did not find the light to be thereby extinguished during the short time I could allot to the Experiment.",
-      "outcome": "Null (light was not extinguished during the experiment)"
+      "outcome": "The light was not extinguished during the short time of the experiment.",
+      "location": null
     },
     {
-      "reasoning": "This experiment investigates the effect of high rectified spirit of wine on the luminous property of a piece of veal. The setup involves pouring the spirit onto the luminous tissue and observing the result, which is a classic method of chemical interaction testing.",
-      "description": "The experimenter places a piece of luminous veal in a phial and adds a small amount of pure spirit of wine. The mixture is shaken and then observed over a short period to determine if the spirit destroys the luminous property of the tissue.",
+      "reasoning": "This experiment tests the effect of high rectified spirit of wine on the luminous property of a piece of veal (or possibly another luminous substance). The setup involves pouring the spirit onto the luminous piece and observing the result.",
+      "description": "The experimenter placed a luminous piece of veal in a crystalline phial and poured high rectified spirit of wine onto it. The mixture was shaken and then observed after a short period to see if the light was extinguished.",
       "quote": "But supposing, that high rectified Spirit of wine might so alter the contexture of the body it permeated, as to destroy its faculty of Shining, I put a luminous piece of Veal into a Crystalline phial, and pouring on it a little pure Spirit of wine that would have burned all away, after I had shaken them together, I laid by the glass, and in about a quarter of an hour or less I found that the light was vanished.",
-      "outcome": "The light was vanished (destruction of luminous property by the spirit of wine)"
+      "outcome": "The light was vanished after shaking with the spirit of wine.",
+      "location": null
     },
     {
-      "reasoning": "This experiment examines the effect of water on the luminous property of the glowworm tissue. The setup involves immersing a piece of luminous tissue in water and observing its luminosity over time. The use of a China cup and observation over an hour indicates a systematic test of a liquid’s effect.",
-      "description": "The experimenter places a piece of luminous tissue in a China cup and fills it with cold water. The luminosity is observed over time to determine how water affects the light emission, with the intention of seeing if the light persists or diminishes.",
+      "reasoning": "This experiment investigates the persistence of luminosity in water. The experimenter places a luminous piece in a China cup and fills it with cold water, then observes the light’s behavior over time.",
+      "description": "The experimenter placed a luminous piece in a China cup and filled it with cold water, observing how the light persisted through the water and its behavior when viewed from a distance.",
       "quote": "But water would not so easily quench our seeming fires; for having put one of them into a China Cup, and almost filled it with cold water, the light did not only appear, perhaps undiminished, through that Liquor, but above an hour after was vigorous enough not to be eclipsed by being looked upon at no great distance from a burning Candle, that was none of the smallest; and probably the light would have been seen much longer, if we could have afforded to watch out its duration.",
-      "outcome": "The light appeared undiminished through water and remained vigorous for an extended period (over an hour)"
+      "outcome": "The light appeared undiminished through water and remained vigorous for an hour or more.",
+      "location": null
     },
     {
-      "reasoning": "This experiment involves using a pneumatical engine (likely a vacuum pump) to study the luminous property of glowworm tissue in a dark environment. The setup includes placing a piece of luminous tissue in a receiver and observing its light under vacuum conditions.",
-      "description": "The experimenter prepares a pneumatical engine in a dark room and places a large piece of luminous tissue in a receiver. The candles are extinguished, and the pump is operated to create a vacuum. The goal is to observe how the luminous property behaves under reduced pressure.",
+      "reasoning": "This experiment uses a pneumatical engine in a darkened room to observe the behavior of a luminous piece in a vacuum or reduced pressure setting.",
+      "description": "The experimenter prepared a pneumatical engine in a dark room, placed a large luminous piece in a receiver, and pumped air out to observe the luminous piece’s behavior under reduced pressure.",
       "quote": "Whilst these things were doing, I caused the Pneumatical Engine to be prepared in a room without fire, (that the Experiment might be tryed in a greater degree of darkness); and having conveyed one of the largest luminous pieces into a small Receiver, we caused the candles to be put out, and the pump to be plied in the dark; but the",
-      "outcome": "Null (the text does not provide explicit results for this experiment; it is incomplete in the provided snippet)"
+      "outcome": "The outcome is not fully stated in the provided text snippet, but the light behavior under reduced pressure was presumably observed.",
+      "location": "A room without fire (darkened room)"
     }
   ]
 }

@@ -2,11 +2,28 @@
   "source_file": "page_0006.txt",
   "experiments": [
     {
-      "reasoning": "The passage describes a deliberate observation of a phenomenon (the luminous property of veal) involving a systematic procedure (including the preparation of the meat, its inclusion in a phial, and subsequent observation over multiple days). The description includes apparatus (the phial), a procedure (observing the meat after it was cut), and repeated observations over time.",
-      "description": "The experiment involved observing and documenting the luminous properties of a piece of veal that had been cut from a previously observed piece. The meat was placed in a clean phial and observed over several days to track its luminosity in the dark.",
-      "quote": "with this shining faculty, it was found, that a Legg of Veal, which was caused to be brought into my Chamber, had some shining places in it; though they were but very few and faint in comparison of those, that were conspicuous in the above-mentioned Neck. ... 'twas cut off from, to be luminous; and I found it to shine in the dark as vigorously as ever.",
-      "outcome": "The piece of veal continued to shine vividly in the dark over several days, demonstrating persistent luminosity.",
-      "location": "The experiment took place in the author's chamber (likely a private room in their residence)"
+      "reasoning": "The author observed the luminous property of a piece of veal that had been preserved in a phial after being exposed to light (from the ",
+      "description": "Luminous Veal",
+      "quote": "a Legg of Veal, which was caused to be brought into my Chamber, had some shining places in it; though they were but very few and faint in comparison of those, that were conspicuous in the above-mentioned Neck.",
+      "outcome": null,
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "The author initially noticed the faint luminosity of the veal in daylight and later systematically observed the preserved piece in a phial to confirm and study its continued luminous behavior over several days.",
+      "description": "The experiment involved observing the luminous properties of a piece of veal initially exposed to light and then preserved in a phial. The author noted the shining of the preserved piece in the dark over multiple days.",
+      "quote": "I looked upon a clean phial... and found it to shine vividly at that time, which was between four and five of clock this morning, since when I have made no one observation or tryal. ...the piece... included in a phial, being preserved in it, I looked upon it the third day... and I found it to shine in the dark as vigorously as ever. The fourth day its light was also conspicuous, so that I was able in a dark Corner of the room to shew it.",
+      "outcome": "The preserved piece of veal continued to shine vividly in the dark for at least four days.",
+      "location": "Chamber (initial observation) and a dark corner of the room (later observations)",
+      "individuals": null
+    },
+    {
+      "reasoning": "The author’s immediate observation of the glowing spots on the veal upon bringing it into the chamber.",
+      "description": "Initial observation of luminous spots on a piece of veal brought into the chamber.",
+      "quote": "a Legg of Veal... had some shining places in it; though they were but very few and faint in comparison of those, that were conspicuous in the above-mentioned Neck.",
+      "outcome": null,
+      "location": "Chamber",
+      "individuals": null
     }
   ]
 }

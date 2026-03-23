@@ -2,11 +2,44 @@
   "source_file": "page_0003.txt",
   "experiments": [
     {
-      "reasoning": "The passage describes a deliberate procedure involving the use of a sealed thermometer (thermoscope) to measure heat transfer from a luminous object (likely a candle or similar light source). The experiment involves applying the thermoscope to the shining parts of the object and observing whether the spirit of wine inside warms significantly.",
-      "description": "The experiment involved taking a luminous part of a bone (possibly from a neck of veal) and using a sealed thermoscope with tinted spirit of wine to test whether the light emitted by the bone could transfer heat to the spirit. The experimenter marked the shining parts and applied the thermoscope to see if the liquid warmed.",
-      "quote": "I applied a seal’d Weather glass, furnished with tincted spirit of wine, for a pretty while, and could not satisfy my self, that the shining parts did at all sensibly warm the liquor: But the Thermoscope, though good in its kind, being not fitted for such nice Experiments, I did not build much upon that tryal.",
-      "outcome": "Null (the experimenter did not find significant warming of the spirit of wine).",
-      "location": null
+      "reasoning": "The passage describes a deliberate procedure involving the use of a sealed thermometer (thermoscope) to measure heat in a luminous object (likely a candle or similar light source). The author attempts to observe and record changes in temperature using a specific apparatus (tinctured spirit of wine in a sealed glass), which fits the criteria of an experiment.",
+      "description": "The experiment involved placing a sealed thermoscope with tinctured spirit of wine near a luminous part of a candle or similar light source. The author aimed to determine whether the light emitted by the luminous part caused any measurable warming of the spirit within the thermoscope.",
+      "quote": "'I applied a seal’d Weather glass, furnished with tincted spirit of wine, for a pretty while, and could not satisfy my self, that the shining parts did at all sensibly warm the liquor:'",
+      "outcome": "Null (the author did not find a significant warming effect)",
+      "location": "Null (not explicitly mentioned)",
+      "individuals": null
+    },
+    {
+      "reasoning": "This passage describes an observation of a putrefying meat sample, where the author and others attempt to detect any smell of decomposition despite the meat appearing fresh. This is a controlled observation to infer the absence of putrefaction.",
+      "description": "The author and associates smelled a piece of veal (labeled as ",
+      "quote": "Notwithstanding the great number of lucid parts in this Neck of Veal, yet neither I, nor any of those that were about me, could perceive by the smell the least degree of stink, whence to infer any Putrefaction; the meat being judged very fresh and well condition’d and fit to be dressed.",
+      "outcome": null,
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "This is not an experiment but a contextual observation about the environment and conditions of the meat storage area.",
+      "description": "The passage describes the physical layout of the larder where the meat was kept, including its height relative to the street, the partition separating it from the kitchen, and the window’s orientation.",
+      "quote": "'The floar of the Larder, where this meat was kept, is almost a story lower then the level of the street, and ’tis divided from the Kitchen but by a partition of boards, and is furnished but with one window, which is not great, and looks toward the street, which lies North-ward from it.'",
+      "outcome": null,
+      "location": "Larder (specific location not detailed beyond the general description)",
+      "individuals": null
+    },
+    {
+      "reasoning": "This passage describes a deliberate observation of the wind direction, atmospheric conditions, and barometric pressure, which are part of a broader environmental setup. While not explicitly an experiment, it provides contextual environmental data that could be part of a larger observational study.",
+      "description": "The author and associates recorded the wind direction (Southwest), atmospheric temperature (as measured by the thermoscope), moon phase, and barometric pressure (Mercury at 29 3/16 inches). This is part of a broader environmental observation.",
+      "quote": "'The wind, as far as we could observe it, was then at Southwest, and blustering enough. The Air by the seal’d Thermoscope appeared hot for the season. The Moon was past its last Quarter. The Mercury in the Barometer stood at $29\frac{3}{16}$ inches.'",
+      "outcome": null,
+      "location": "Null (general observation)",
+      "individuals": null
+    },
+    {
+      "reasoning": "The passage describes a deliberate procedure involving cutting a piece of luminous bone from the veal neck and observing its properties. This is a controlled observation to compare the luminous properties of the cut part with the rest of the bone.",
+      "description": "The author cut a piece of luminous bone from the neck of veal, which was about the thickness of a half crown piece. The luminous part was compared to the rest of the bone to observe differences in brightness.",
+      "quote": "'We cut off with a knife one of the luminous parts, which proved to be a tender bone, and being of about the thickness of a half Crown piece, appeared to shine on both sides though not equally; and that part of the bone, whence this had been cut off, continued joined to the rest of the Neck of Veal, and was seen to shine, but nothing near so vividly as the part, we had taken off, did before.'",
+      "outcome": "The cut part shone more vividly than the remaining part of the bone",
+      "location": "Null (not explicitly mentioned)",
+      "individuals": null
     }
   ]
 }

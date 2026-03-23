@@ -2,14 +2,12 @@
   "source_file": "page_0009.txt",
   "experiments": [
     {
-      "reasoning": "The passage describes a deliberate observation of a mushroom with specific characteristics (size, shape, juice properties, and reactions to cutting). It includes systematic descriptions of the mushroom’s appearance, tactile properties, taste, and behavior when exposed to air or drying, which align with the definition of an experiment.",
-      "description": "An experiment involving the observation of a large, unusual mushroom found in Marton woods under Pinno-moor in Craven. The experiment focused on examining the mushroom’s physical properties, such as its size, shape, and the behavior of its milky juice when cut, tasted, and exposed to air or drying. The experiment also involved noting the presence of fly maggots within the mushrooms.",
-      "quote": "In these Woods I then found an infinite number of Mushrooms, some wither'd, and others new-sprung and flourishing. They were of a large size, something bigger than the Ordinary red-gilled eatable Mushroom or Champignon, and very much of their shape... If you cut any part of this Mushroom, it will bleed exceeding freely a Milk-white Juice, concerning which note; 1. That this Milky Juice tastes much hotter upon the tongue than Pepper. 2. That it is not clammy to the touch. 3. That the Air does not much discolour it, or the blade of a knife; as is usual with most Vegetable Juices. 4. That it became in the glass-viol, I drew it into, suddenly concret and stiff, and did in some daies dry into a firm Cake. 5. That it then also, when well dried, retain'd its fierce biting tast and white colour.",
-      "outcome": "The passage describes several notable observations about the mushroom’s juice and its behavior, but does not explicitly state a definitive outcome or conclusion. The key findings include the juice’s hot, bitter taste, its rapid concretion in a glass container, and its retention of color and taste upon drying.",
-      "location": "Marton woods, under Pinno-moor in Craven",
-      "individuals": [
-        "Mr. Lister"
-      ]
+      "reasoning": "The author suspects that the unusual appearance of the animals' flesh in the larder may be influenced by the specific atmospheric conditions (the peculiar constitution of the air) rather than solely by the nature of the animals themselves.",
+      "description": "This passage hints at an early observation of how environmental factors (such as air quality) might affect biological properties (in this case, the luminosity or shine of animal flesh). It sets up a curiosity about the role of the larder’s air in this phenomenon.",
+      "quote": "a suspicion, that the peculiar constitution of the Air in that Larder, and at that time, may as well deserve to be taken into consideration, as the peculiar nature of the Animals whose flesh did shine, is a question,",
+      "outcome": null,
+      "location": null,
+      "individuals": null
     }
   ]
 }

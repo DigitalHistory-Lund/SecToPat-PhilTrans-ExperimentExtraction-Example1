@@ -1,0 +1,29 @@
+{
+  "source_file": "page_0009_new.txt",
+  "experiments": [
+    {
+      "reasoning": "The author observed unusual mushroom growth in Marton Woods, likely to investigate their unusual properties and potential biological or chemical characteristics.",
+      "description": "Observation of a large, unusual mushroom species with distinct morphological features and unusual properties, including a thick, fleshy stalk, a round cap, and a white, milk-like juice when cut. The author also noted the presence of maggots within the mushrooms.",
+      "quote": "In these Woods I then found an infinite number of Mushrooms, some wither'd, and others new-sprung and flourishing. They were of a large size, something bigger than the Ordinary red-gilled eatable Mushroom or Champignon, and very much of their shape... If you cut any part of this Mushroom, it will bleed exceeding freely a Milk-white Juice...",
+      "outcome": "The juice's properties were noted to be hotter than pepper, not clammy, and it congealed in a glass vial, drying into a firm cake while retaining its sharp taste and white appearance.",
+      "location": "Marton Woods, under Pinno-moor in Craven",
+      "individuals": null
+    },
+    {
+      "reasoning": "Investigation of the physical and chemical properties of the mushroom’s juice to understand its behavior under different conditions (e.g., taste, texture, and concretion).",
+      "description": "Testing the juice’s taste, texture, and behavior when exposed to air and drying.",
+      "quote": "1. That this Milky Juice tastes much hotter upon the tongue than Pepper. 2. That it is not clammy to the touch. 3. That the Air does not much discolour it, or the blade of a knife; 4. That it became in the glass-viol, I drew it into, suddenly concret and stiff, and did in some daies dry into a firm Cake. 5. That it then also, when well dried, retain'd its fierce biting tast and white colour.",
+      "outcome": "The juice congealed and hardened in a glass vial, drying into a firm cake while retaining its sharp taste and white appearance.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "Observation of the presence of maggots within the mushrooms, likely to study their impact or implications on the organism.",
+      "description": "Observation of maggots inside the mushrooms, indicating potential decomposition or breeding activity.",
+      "quote": "Further, I observ'd these Mushrooms, full of Juice, not to be endured upon our tongues, to abound with Fly-maggots.",
+      "outcome": null,
+      "location": "Marton Woods, under Pinno-moor in Craven",
+      "individuals": null
+    }
+  ]
+}
